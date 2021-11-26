@@ -35,6 +35,7 @@ public class SpringSecurityJwtExampleApplication {
 
     public static void main(String[] args) {
         SpringApplication.run(SpringSecurityJwtExampleApplication.class, args);
+        
     }
 
 }
